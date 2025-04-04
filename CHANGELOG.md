@@ -5,3 +5,4 @@
 
 ### 🚀 New Features
 - DID Document and VC Management through mobile wallet.
+- ...
